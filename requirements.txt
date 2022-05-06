@@ -8,14 +8,11 @@ backports.zoneinfo==0.2.1
 bcrypt==3.1.7
 beautifulsoup4==4.10.0
 blinker==1.4
-
 certifi==2019.11.28
 chardet==3.0.4
 click==8.0.4
 colour==0.1.5
-
 cryptography==2.8
-cupshelpers==1.0
 dbus-python==1.2.16
 defer==1.0.6
 defusedxml==0.7.1
